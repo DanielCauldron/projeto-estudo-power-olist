@@ -1,4 +1,8 @@
 # 📊 Dashboard Power BI – Olist
+<img width="1518" height="803" alt="Pagina1_Desempenho" src="https://github.com/user-attachments/assets/691dd71d-a018-4e74-bb61-e6cf9ea6127c" />
+<img width="1320" height="742" alt="Pagina2_Entregas" src="https://github.com/user-attachments/assets/90beb79d-b5f4-4ab9-93ca-a4f8c990645c" />
+<img width="1204" height="681" alt="Pagina3_Produtos" src="https://github.com/user-attachments/assets/0e1b2dfb-35c7-49c1-8b94-822402ddb30a" />
+
 
 Este projeto foi desenvolvido como parte do meu processo de aprendizado e aprimoramento em *Análise de Dados com Power BI, com o objetivo de transformar dados brutos em **insights estratégicos* e *visuais claros*.
 
