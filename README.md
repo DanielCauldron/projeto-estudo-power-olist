@@ -69,7 +69,7 @@ O foco é demonstrar *raciocínio analítico, domínio de DAX básico e boas pr�
 *Daniel Fernando Generoso Caldeirão*  
 📧 [dfcaldeirao@gmail.com](mailto:dfcaldeirao@gmail.com)  
 🌐 [GitHub: DanielCauldron](https://github.com/DanielCauldron)  
-💼 [LinkedIn](https://www.linkedin.com/in/danielcauldron)
+💼 [LinkedIn](https://www.linkedin.com/feed/)
 
 ---
 
